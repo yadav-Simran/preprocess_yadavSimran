@@ -5,7 +5,7 @@ This python package is prepared by Simran Yadav.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com/yadav-Simran/preprocess_yadavSimran.git`
 
 Uninstall
 
